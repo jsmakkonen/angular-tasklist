@@ -1,0 +1,30 @@
+body {
+    background-color: #192231;
+}
+
+.content {
+    width: 550px;
+    margin: auto;
+}
+
+span {
+    color: white;
+}
+
+p {
+    color: white;
+}
+
+h2 {
+    text-transform: uppercase;
+    color: white;
+    padding-bottom: 20px;
+}
+
+.task-div {
+    margin-top: 15px;
+}
+
+.btn-div {
+    margin-top: 15px;
+}
